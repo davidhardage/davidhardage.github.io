@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-spotifyplaylist: poopascoopautd/playlist/5WpKT3udTt35Jgn9kqtNES
+spotifyplaylist: 5WpKT3udTt35Jgn9kqtNES
 ---
 
 Some information about you!
