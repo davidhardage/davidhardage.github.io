@@ -4,6 +4,18 @@ permalink: /categories/
 title: Categories
 ---
 
+<p>
+    {% for category in site.categories %}
+    <!-- Here's a hack to generate a "category cloud" where the size of
+    the word is directly proportional to the number of posts with
+    that category. -->
+    <a href="/categories/{{ category[0] }}/" 
+    style="font-size: {{ category[1] | size | times: 2 | plus: 10 }}px">
+        {{ category[0] }}
+    </a> | 
+    {% endfor %}
+</p>
+
 
 <div id="archives">
 {% for category in site.categories %}
