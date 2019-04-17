@@ -5,15 +5,7 @@ permalink: /about/
 spotifyplaylist: 5WpKT3udTt35Jgn9kqtNES
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a millennial with a love of travel and good movies. This is a blog to share some of my experiences and opinions about those topics, and whatever else I think of. I have embeded my go-to playlist below. I usually keep it short (around 1 hour) as it's meant for all of my favorite songs at the moment. 
 
 ### My Playlist
 
