@@ -1,6 +1,10 @@
-{% capture words %}
-{{ content | number_of_words | minus: 180 }}
+{% capture count_words %} 
+{{ page.content | number_of_words }} 
 {% endcapture %}
-{% unless words contains '-' %}
-{{ words | plus: 150 | divided_by: 150 | append: ' minutes to read' }}
-{% endunless %}
+
+{% capture time_words %} 
+{{count_words | divided_by: 5}} 
+{% endcapture %} 
+
+{{count_words}} Words in Post.
+Reading Time:  ~ {{time_words | divided_by: 60}} min. or so.
