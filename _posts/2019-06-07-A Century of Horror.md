@@ -59,11 +59,11 @@ I will be breaking up the 41 films into five groups, each marking what I conside
 
 | Time Period | Count of Films | Total Runtime | Average Runtime |
 |-------|--------|---------|---------|
-| Silent Shorts | 11 | 1:40:00 | 0:09:05 |
-| The Beginning of the Features | 4 | 5:46:00 | 1:26:30 |
-| Black & White Talkies | 10 | 13:02:00 | 1:18:12 |
-| Cold War Color | 9 | 15:53:00 | 1:45:53 |
-| Contemporary Horror | 7 | 11:24:00 | 1:37:43 |
+| Silent Shorts (1896 - 1913) | 11 | 1:40:00 | 0:09:05 |
+| The Beginning of the Features (1920 - 1926) | 4 | 5:46:00 | 1:26:30 |
+| Black & White Talkies (1928 - 1955) | 10 | 13:02:00 | 1:18:12 |
+| Cold War Color (1957 - 1983) | 9 | 15:53:00 | 1:45:53 |
+| Contemporary Horror (1997 - 2016) | 7 | 11:24:00 | 1:37:43 |
 {: .tablelines}
 
 I haven’t seen any of these except the last film I’ll watch, which is a meta-analysis of the genre itself. Besides Cabin in the Woods, I will be watching every film in order of release year, touching some of the highlights like the first horror feature, the first horror feature with audio, and the first horror feature with color. There are a number of classics as well, covering the popularity spectrum from classic blockbusters to the heights of obscurity. 
