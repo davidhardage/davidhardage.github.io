@@ -5,7 +5,9 @@ categories: [Movies, Project]
 tags: [movies, horror, statistics, viewing history, A Century of Horror, history]
 ---
 
-I am starting a little bit of a journey to learn more about the horror genre of film. The goal of this project is to go back to the origins of film itself and see how the horror movie has changed over the last 120 years. I have 41 films selected, which you can see listed in order below.
+I am starting a little bit of a journey to learn more about the horror genre of film. The goal of this project is to go back to the origins of film itself and see how the horror movie has changed over the last 120 years. 
+
+I have 41 films selected, which you can see listed in order below.
 
 ![Still from Ivan the Terrible, part 3](/images/Ivan The Terrible P3 shot.jpg)
 
@@ -53,7 +55,7 @@ I am starting a little bit of a journey to learn more about the horror genre of 
 40. [We Are The Flesh  (2016)](https://www.imdb.com/title/tt4682708)
 41. [Cabin In The Woods (2011)](https://www.imdb.com/title/tt1259521)
 
-I will be breaking up the 41 films into five groups, each marking what I consider to be an important period in film. We start with the short films, dominated by Georgies Melies and his trick films. From there, movie length explodes and we see our first full length feature films. After that comes audio, and the first significant time sink in this project. When color is introduced, I break up the periods with the Cold War because it was easy. Between these two periods, I see Cold War Color as developing and furthering the horror genre, getting us to the movies we see today. 
+I will be breaking up the 41 films into five groups, each marking what I consider to be an important period in film. We start with the short films, dominated by Georgies Melies and his trick films. From there, movie length explodes and we see our first full length feature films. After that comes audio, and the first significant time sink in this project. When color is introduced, I break up the periods with the Cold War because it's easy. Between these two periods, I see Cold War Color as developing and furthering the horror genre, getting us to Contemporary Horror.
 
 | Time Period | Count of Films | Total Runtime | Average Runtime |
 |-------|--------|---------|---------|
