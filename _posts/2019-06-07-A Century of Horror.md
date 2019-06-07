@@ -68,6 +68,14 @@ I will be breaking up the 41 films into five groups, each marking what I conside
 
 I haven’t seen any of these except the last film I’ll watch, which is a meta-analysis of the genre itself. Besides Cabin in the Woods, I will be watching every film in order of release year, touching some of the highlights like the first horror feature, the first horror feature with audio, and the first horror feature with color. There are a number of classics as well, covering the popularity spectrum from classic blockbusters to the heights of obscurity. 
 
+I will do my best to keep an eye out for a few things that have consistently been a part of films since the inception of the medium:
+
+* Plot Complexity
+* Set Design
+* Camera Work
+
+I will probably come back and add a few more things to this list.
+
 For furthering my education, I have been recommended the following items:
 
 * [History of Horror](https://www.shudder.com/series/watch/amc-visionaries-eli-roths-history-of-horror/4704999) by Eli Roth
