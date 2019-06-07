@@ -62,6 +62,7 @@ I will be breaking up the 41 films into five groups, each marking what I conside
 | Black & White Talkies | 10 | 13:02:00 | 1:18:12 |
 | Cold War Color | 9 | 15:53:00 | 1:45:53 |
 | Contemporary Horror | 7 | 11:24:00 | 1:37:43 |
+{: .tablelines}
 
 I haven’t seen any of these except the last film I’ll watch, which is a meta-analysis of the genre itself. Besides Cabin in the Woods, I will be watching every film in order of release year, touching some of the highlights like the first horror feature, the first horror feature with audio, and the first horror feature with color. There are a number of classics as well, covering the popularity spectrum from classic blockbusters to the heights of obscurity. 
 
